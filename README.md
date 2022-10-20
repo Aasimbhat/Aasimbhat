@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aasim Bhat</h1>
+<h1 align="center">Hi 👋, I'm Fahad</h1>
 <h3 align="center">Web Developer|Flutter Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aasimbhat&label=Profile%20views&color=0e75b6&style=flat" alt="aasimbhat" /> </p>
