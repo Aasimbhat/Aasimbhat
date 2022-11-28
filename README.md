@@ -6,7 +6,7 @@
 <p align="left"> <" target="blank"><img src="https://img.shields.io/twitter/follow/fahaddfarooq?logo=twitter&style=for-the-badge" alt="aasimbhat" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aasimbhat" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aasim-bhat-aa4293206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aasim bhat" height="30" width="40" /></a>
 <a href="https://instagram.com/aasimbhat44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aasimbhat44" height="30" width="40" /></a>
